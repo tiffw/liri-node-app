@@ -11,10 +11,10 @@ var inputString = process.argv[2];
 
 //defining keys for the twitter API
 var client = new twitter({
-    consumer_key: keys.twitterKeys.consumer_key,
-    consumer_secret: keys.twitterKeys.consumer_secret,
-    access_token_key: keys.twitterKeys.access_token_key,
-    access_token_secret: keys.twitterKeys.access_token_secret
+    consumer_key: 'JAumy55ooRxwp7cJiqvFVqpDI',
+    consumer_secret: 'mzwg8SfyWdKJwL1Fuml0TypWKCiMUAQT2jcLxq4gxiGMa4DMlT',
+    access_token_key: '68301106-DYl09N8syLDOaeTwhGxDYqvkafbYZK81Ar9AKK5CU',
+    access_token_secret: 'r8lMomY0pR135sSK3P9tXkAC1cW2ySChM920pHdJam0Wt',
 });
 
  
